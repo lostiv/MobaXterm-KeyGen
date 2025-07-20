@@ -4,6 +4,13 @@ MobaXterm Pro 证书生成器
   <img src="https://github.com/user-attachments/assets/44ad3e41-d659-4a05-bb00-ae07f6fda084" alt="image" width="284.4" height="286.8" />
 </p>
 
+## 本地启动
+需要安装Python3!!!
+```
+pip install --no-cache-dir -r requirements.txt
+python mobaxtermkeygen.py
+```
+
 ## 使用方法
 访问：IP:50000
 如 http://http://127.0.0.1:50000/
